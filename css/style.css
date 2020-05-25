@@ -9,7 +9,7 @@
     min-height: 400px;
 }
 .footer{
-    background-color: rgb(245, 146, 237);
+    background-color: rgb(207, 186, 245);
     margin: 0px auto;
     padding: 20px 0px 20px 0px ;
 }
@@ -23,4 +23,12 @@ address{
     font-size: 80%;
     margin: 0px;
     color: #0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
